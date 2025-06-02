@@ -1,0 +1,5 @@
+[project]
+name = "skill-conductor"
+version = "0.1.0"
+description = "Architecture-first skill lifecycle for AI agents. BinEval binary scoring with threshold-blind, cross-family-calibrated judges, gated self-update loop, pressure testing, 10 authoring principles grounded in empirical research."
+requires-python = ">=3.10"
