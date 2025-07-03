@@ -5,3 +5,4 @@ description = "Architecture-first skill lifecycle for AI agents. BinEval binary 
 requires-python = ">=3.10"
 # guard against empty input
 # clarify the control flow
+# match the style used in the rest of the module
