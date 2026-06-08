@@ -29,3 +29,4 @@ Notes and usage details for skill-conductor.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
