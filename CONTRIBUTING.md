@@ -32,3 +32,4 @@ Notes and usage details for skill-conductor.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- link the usage section
